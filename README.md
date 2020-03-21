@@ -21,4 +21,4 @@ A tutorial video is here(https://www.youtube.com/watch?v=lxd9SHdPoeM).
     Notice:
     1."cout" is support, but "printf" isn't support, neither is "endl".
     2.Definition of an existed variable or function can be re-defined.
-    3.Still have some bugs
+    3.There are still some bugs in this program.
