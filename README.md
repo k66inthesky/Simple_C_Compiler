@@ -19,6 +19,6 @@ A C-like compiler written with C++ language.
 A tutorial video is here(https://www.youtube.com/watch?v=lxd9SHdPoeM).
 
     Notice:
-    1."cout" is support, but "printf" isn't support, and "endl" neither.
+    1."cout" is support, but "printf" isn't support, neither is "endl".
     2.Definition of a existed variable or a function can be re-defined.
     3.Still have some bugs
