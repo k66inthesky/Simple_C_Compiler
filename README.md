@@ -1,4 +1,9 @@
-A C-like compiler written with C++ language.
+# A C-like compiler written with C++ language.
+
+<p float="left">
+<img src="SimpleCCompiler1.png" width="300"/>
+<img src="SimpleCCompiler2.png" width="300"/>
+<p>
 
     It was supported to compile a C-like statement.
     
